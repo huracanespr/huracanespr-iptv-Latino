@@ -3,7 +3,14 @@
 #EXTINF:-1,[COLOR lime][/COLOR][COLOR red]Huracanespr iptv Latinos[/COLOR][COLOR lime][/COLOR]
 http://0.0.0.0:1234
 
+#EXTINF:-1,HBO
+rtmp://198.255.17.34:443/live?Bmk07qbtaDDJGH5oEWo7lQZPc0OxqHZZ playpath=live_mega_extremo swfUrl=http://vaughnlive.tv/4368598554/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true
 
+#EXTINF:-1,HBO
+rtmp://198.255.17.34:443/live?Bmk07qbtaDDJGH5oEWo7lQZPc0OxqHZZ playpath=live_mega_extremo swfUrl=http://vaughnlive.tv/4368598554/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?viewers=true&watermark=left&autoplay=true
+
+#EXTINF:-1,HBO
+rtmp://198.255.17.34:443/live?Bmk07qbtaDDJGH5oEWo7lQZPc0OxqHZZ playpath=live_mega_extremo swfUrl=http://vaughnlive.tv/4368598554/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_extremo?
 
 #EXTINF:0,TETEMUNDO 
 http://video06-atl.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
@@ -169,9 +176,9 @@ http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist_w8243
 http://q.gs/9830047/onceuuruguaytodokodim3u8
 #EXTINF:-1,ECUADOR TV
 http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/master.m3u8
-#EXTINF:-1,MEGA HD ESPA—A
+#EXTINF:-1,MEGA HD ESPA√ëA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1,LA SEXTA ESPA—A
+#EXTINF:-1,LA SEXTA ESPA√ëA
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=1439881142212
@@ -179,7 +186,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=143988114221
 http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 #EXTINF:-1,Telecinco
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
-#EXTINF:-1,Antena 3 ESPA—A
+#EXTINF:-1,Antena 3 ESPA√ëA
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Radio Uno Plus
 http://streaming.radionomy.com/radiounoplus
@@ -310,25 +317,25 @@ http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1,Multimedios Monterrey
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:4.004,TelevisiÛn Mexiquense
+#EXTINF:4.004,Televisi√≥n Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 
-#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]ESPA—A[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
+#EXTINF:-1,[COLOR lime]<<<<<<<<<<<<<[/COLOR][COLOR red]ESPA√ëA[/COLOR][COLOR lime]>>>>>>>>>>>>>>[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-id="TV Guia_Nuevo Tiempo.tutvguia.com" tvg-name="Nuevo_Tiempo.tutvguia.com" tvg-logo="nuevo-tiempo.png" group-title="ReligiÛn",Nuevo Tiempo
+#EXTINF:-1 tvg-id="TV Guia_Nuevo Tiempo.tutvguia.com" tvg-name="Nuevo_Tiempo.tutvguia.com" tvg-logo="nuevo-tiempo.png" group-title="Religi√≥n",Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/master.m3u8
-#EXTINF:-1 tvg-id="TV Guia_3ABN Latino.tutvguia.com" tvg-name="3ABN_Latino.tutvguia.com" tvg-logo="3abn_Latino.png" group-title="ReligiÛn",3ABN Latino
+#EXTINF:-1 tvg-id="TV Guia_3ABN Latino.tutvguia.com" tvg-name="3ABN_Latino.tutvguia.com" tvg-logo="3abn_Latino.png" group-title="Religi√≥n",3ABN Latino
 rtmp://streamer1.streamhost.org/salive playpath=GMIredadvenirh swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://redadvenir.org/zstream/redadvenir.php?tvsize=2
-#EXTINF:-1 tvg-id="TV Guia_LLBN Latino.tutvguia.com" tvg-name="LLBN_Latino.tutvguia.com" tvg-logo="LLBN-Latino.png" group-title="ReligiÛn",LLBN Latino
+#EXTINF:-1 tvg-id="TV Guia_LLBN Latino.tutvguia.com" tvg-name="LLBN_Latino.tutvguia.com" tvg-logo="LLBN-Latino.png" group-title="Religi√≥n",LLBN Latino
 rtmp://cp45648.live.edgefcs.net/live playpath=T01587-latino@94847 swfUrl=http://vp.telvue.com/extra/jwplayer.swf live=1 pageUrl=http://vp.telvue.com/player?id=T01587&video=140436&mini=true
-#EXTINF:-1 tvg-id="TV Guia_Alfa TV.tutvguia.com" tvg-name="Alfa_TV.tutvguia.com" tvg-logo="alfa.png" group-title="ReligiÛn",Alfa Television
+#EXTINF:-1 tvg-id="TV Guia_Alfa TV.tutvguia.com" tvg-name="Alfa_TV.tutvguia.com" tvg-logo="alfa.png" group-title="Religi√≥n",Alfa Television
 rtmp://streamer1.streamhost.org/salive playpath=GMIalfah swfUrl=http://missionslibrary.com/player/flashplayer/player.swf live=1 pageUrl=http://www.alfatelevision.org/update/archivos/player/adaptive_streaming_NORMAL_manual.html
-#EXTINF:-1 tvg-id="TV Guia_Aliento Vision.tutvguia.com" tvg-name="Aliento_Vision.tutvguia.com" tvg-logo="Aliento.png" group-title="ReligiÛn",Aliento VisiÛn
+#EXTINF:-1 tvg-id="TV Guia_Aliento Vision.tutvguia.com" tvg-name="Aliento_Vision.tutvguia.com" tvg-logo="Aliento.png" group-title="Religi√≥n",Aliento Visi√≥n
 http://unoredrtmp.tulix.tv:1935/alientovision/stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV Guia_Cuatro.tutvguia.com" tvg-name="Cuatro.tutvguia.com" tvg-logo="cuatro.png" group-title="Castellano",Cuatro
 rtmp://31.220.40.60/privatestream/cuatrotdt9 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
-#EXTINF:-1 tvg-id="TV Guia_C+ AcciÛn.tutvguia.com" tvg-name="C+_AcciÛn.tutvguia.com" tvg-logo="canalplusaccion.png" group-title="Castellano",C+ AcciÛn
+#EXTINF:-1 tvg-id="TV Guia_C+ Acci√≥n.tutvguia.com" tvg-name="C+_Acci√≥n.tutvguia.com" tvg-logo="canalplusaccion.png" group-title="Castellano",C+ Acci√≥n
 rtmp://31.220.2.57/privatestream/accionplus91 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-1 tvg-id="TV Guia_C+ Comedia.tutvguia.com" tvg-name="C+_Comedia.tutvguia.com" tvg-logo="CanalplusComedia.png" group-title="Castellano",Canal + Comedia
 rtmp://31.220.0.196/privatestream/comediaplus78 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
@@ -342,7 +349,7 @@ rtmp://31.220.40.41/privatestream/fox856 swfUrl=http://privatestream.tv/js/jwpla
 rtmp://31.220.0.196/pull/s24h_sp swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
 #EXTINF:-1 tvg-id="TV Guia_Padre de Familia.tutvguia.com" tvg-name="Padre_de_Familia.tutvguia.com" tvg-logo="familyguy.png" group-title="Castellano",Padre de Familia
 rtmp://31.220.0.196/pull/pf24h_sp swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/
-#EXTINF:-1 tvg-id="TV Guia_DCine EspaÒol.tutvguia.com" tvg-name="DCine_EspaÒol.tutvguia.com" tvg-logo="DCine_Espanyol.png" group-title="Castellano",Dcine EspaÒol
+#EXTINF:-1 tvg-id="TV Guia_DCine Espa√±ol.tutvguia.com" tvg-name="DCine_Espa√±ol.tutvguia.com" tvg-logo="DCine_Espanyol.png" group-title="Castellano",Dcine Espa√±ol
 rtmp://31.220.0.32/privatestream/espadcine7 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
 #EXTINF:-1 tvg-id="TV Guia_Disney_Channel.tutvguia.com" tvg-name="Disney_Channel.tutvguia.com" tvg-logo="disney-channel.png" group-title="Castellano",Disney
 rtmp://31.220.0.82/privatestream/disneyy1 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
@@ -431,11 +438,11 @@ http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
 #EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
 http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV M¡S[/COLOR]
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV M√ÅS[/COLOR]
 http://50.7.98.234:1935/rtv/videortv/live.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]MÈxico Travel Channel[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]M√©xico Travel Channel[/COLOR]
 http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]MÈxico Television Michoac·n[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]M√©xico Television Michoac√°n[/COLOR]
 http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
@@ -455,7 +462,7 @@ http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
 http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]TelecafÈ[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecaf√©[/COLOR]
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -475,7 +482,7 @@ http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB EspaÒa[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB Espa√±a[/COLOR]
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
 http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
@@ -483,7 +490,7 @@ http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (LatinoamÈrica)[/COLOR]
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoam√©rica)[/COLOR]
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
@@ -497,7 +504,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele medÈllin[/COLOR]
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele med√©llin[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
@@ -510,7 +517,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
 http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=1695
 #EXTINF:-1,NFL Network
 http://q.gs/9830047/todokodi16
-#EXTINF:-1,UFC Network LatinoamÈrica
+#EXTINF:-1,UFC Network Latinoam√©rica
 http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=1047
 #EXTINF:-1,Golf Channel Latinoamerica
 http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=1489
@@ -533,7 +540,7 @@ http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1,TyC Sports
 http://q.gs/9830047/todokodi4
 
-#EXTINF:-1,BeinSports en EspaÒol HD
+#EXTINF:-1,BeinSports en Espa√±ol HD
 http://tvguia.ga/canal.php?u=tvguia&p=DKE9LVJR0DK48D&canal=2527
 
 #EXTINF:-1,Planeta Futbol
@@ -861,11 +868,11 @@ http://www.spruto.tv/get_file/2/34c04cb4d853bfa4246bf22a59f46b57/92000/92299/922
 http://www.spruto.tv/get_file/1/ad12571326ffd5c9a573bfc551bec3aa/88000/88259/88259.mp4
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://unsoloclic.info/wp-content/uploads/2015/01/The-Hobbit-Battle-Of-The-Five-Armies.jpg", EL HOBBIT 3
 http://www.spruto.tv/get_file/5/325f31006a1edb90b8d703749f941c9b/115000/115101/115101.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://imgs24.com/images/esdlacomun.jpg", EL SE—OR DE LOS ANILLOS 1
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://imgs24.com/images/esdlacomun.jpg", EL SE√ëOR DE LOS ANILLOS 1
 http://www.spruto.tv/get_file/2/1cdcb7a5a34c448458c989c4a8ea63ac/92000/92303/92303.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://fotos.laopiniondemalaga.es/fotos/noticias/150x200/2008-12-19_IMG_2008-12-19_1229680762328_el_senor_de_los_anillos_-_las_dos_torres.jpg", EL SE—OR DE LOS ANILLOS 2
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://fotos.laopiniondemalaga.es/fotos/noticias/150x200/2008-12-19_IMG_2008-12-19_1229680762328_el_senor_de_los_anillos_-_las_dos_torres.jpg", EL SE√ëOR DE LOS ANILLOS 2
 http://www.spruto.tv/get_file/2/ffdfa3598aa29f3d798de90672748ddd/92000/92307/92307.mp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.ekultura.hu/cikkek_kepei/nagy/378.jpg", EL SE—OR DE LOS ANILLOS 3
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://www.ekultura.hu/cikkek_kepei/nagy/378.jpg", EL SE√ëOR DE LOS ANILLOS 3
 http://www.spruto.tv/get_file/2/71e2263d6e983814600c732e9076d858/92000/92306/92306.mp4
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://cdn.24.co.za/files/Cms/General/d/2445/4b94795820984418a0338e2192c835f8.jpg", X-men 1
 http://www.spruto.tv/get_file/2/f136f3a737a06d7d6f52255fc8d0c953/97000/97116/97116.mp4
@@ -988,13 +995,13 @@ http://st304.u1.videomega.tv/v/a41a26201383ea87f1177ea53b6826a5.mp4?st=dews1Lxre
 http://5.104.175.50/dl/b85342d2637a3f634891afa0d6431b8e/559b2ef4/ff5b616bb11545eddf7cc03c26f5837aa5.flv
  
  
-#EXTINF:-1, AladdÌn 1
+#EXTINF:-1, Aladd√≠n 1
 http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-#EXTINF:-1, AladdÌn 2
+#EXTINF:-1, Aladd√≠n 2
 http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-#EXTINF:-1, AladdÌn y el rey de los ladrones
+#EXTINF:-1, Aladd√≠n y el rey de los ladrones
 http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-#EXTINF:-1, Alicia en el PaÌs de las Maravillas
+#EXTINF:-1, Alicia en el Pa√≠s de las Maravillas
 http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
 #EXTINF:-1, Anastasia
 http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4
@@ -1016,9 +1023,9 @@ http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/1
 http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
 #EXTINF:-1, La Bella y la Bestia 2
 http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4
-#EXTINF:-1, La Princesa SofÌa: …rase una vez una Princesa
+#EXTINF:-1, La Princesa Sof√≠a: √ârase una vez una Princesa
 http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4
-#EXTINF:-1, La Princesa SofÌa: Un Palacio en el Agua
+#EXTINF:-1, La Princesa Sof√≠a: Un Palacio en el Agua
 http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4
 #EXTINF:-1, La Princesa y el Sapo
 http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
@@ -1028,7 +1035,7 @@ http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/807
 http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
 #EXTINF:-1, La Sirenita 3
 http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-#EXTINF:-1, Mul·n
+#EXTINF:-1, Mul√°n
 http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
 #EXTINF:-1, Pocahontas 1
 http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
@@ -1048,21 +1055,21 @@ http://www.spruto.tv/get_file/5/bcd00ea2dc87343a5e7c9efa408f98be/117000/117388/1
 http://www.spruto.tv/get_file/5/17f18f9ceb88b7b23cc713776d6db595/118000/118624/118624.mp4
 #EXTINF:-1, Intensa Mente
 http://www.spruto.tv/get_file/5/efa38a4951d96167b5ceb3ac0e0162c9/118000/118585/118585.mp4
-#EXTINF:-1, PokÈmon: La pelÌcula
+#EXTINF:-1, Pok√©mon: La pel√≠cula
 http://www.spruto.tv/get_file/5/c210540071556cb986030e20f2782671/117000/117055/117055.mp4
-#EXTINF:-1, PokÈmon Mewtwo: El regreso
+#EXTINF:-1, Pok√©mon Mewtwo: El regreso
 http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/117056.mp4
 #EXTINF:-1, Casper (1995)
 http://www.spruto.tv/get_file/5/39b0d4dce6816e14b46a62c9624bf69e/116000/116997/116997.mp4
 #EXTINF:-1, Las cronicas de Narnia 1: El leon, la bruja y el ropero
 http://www.spruto.tv/get_file/5/5902aa0656fea147b710a96fefd7806e/115000/115822/115822.mp4
-#EXTINF:-1, Las crÛnicas de Narnia 2: El PrÌncipe Caspian
+#EXTINF:-1, Las cr√≥nicas de Narnia 2: El Pr√≠ncipe Caspian
 http://www.spruto.tv/get_file/5/c39bca99af6e6a57c3e180811ce8ed33/115000/115824/115824.mp4
-#EXTINF:-1, Las crÛnicas de Narnia 3: La travesÌa del viajero del alba
+#EXTINF:-1, Las cr√≥nicas de Narnia 3: La traves√≠a del viajero del alba
 http://www.spruto.tv/get_file/5/5acd9aa19304e537cdbb600ef3770d46/115000/115826/115826.mp4
-#EXTINF:-1, Mini EspÌas 4 y Los Ladrones del Tiempo
+#EXTINF:-1, Mini Esp√≠as 4 y Los Ladrones del Tiempo
 http://www.spruto.tv/get_file/7/ca962d0468cd8482991701edf96981ae/77000/77730/77730.mp4
-#EXTINF:-1, Mini EspÌas 3: Fin del juego
+#EXTINF:-1, Mini Esp√≠as 3: Fin del juego
 http://www.spruto.tv/get_file/7/f904242c746389fd3036e89e0f02e0c8/77000/77729/77729.mp4
 #EXTINF:-1, El expreso polar castellano
 http://www.spruto.tv/get_file/5/a9fbadc52b1dabc3a007ecb2c899b252/115000/115096/115096.mp4
@@ -1082,9 +1089,9 @@ http://www.spruto.tv/get_file/7/218271532a38ae4d64b48f47e7653419/76000/76751/767
 http://www.spruto.tv/get_file/7/2602726612d6982b4e26a9ef2995b63f/76000/76747/76747.mp4
 #EXTINF:-1, Santa Buddies
 http://www.spruto.tv/get_file/7/3902b36a8fadbe6f392f99ed37ffc5cf/76000/76748/76748.mp4
-#EXTINF:-1, Hannah Montana: La PelÌcula
+#EXTINF:-1, Hannah Montana: La Pel√≠cula
 http://www.spruto.tv/get_file/7/46fc21e46a996480630de0ed94ea7dc7/76000/76863/76863.mp4
-#EXTINF:-1, Tarz·n 2
+#EXTINF:-1, Tarz√°n 2
 http://www.spruto.tv/get_file/7/a8d34a6fe9a7f1e2e8007d130fc71302/76000/76858/76858.mp4
 #EXTINF:-1, Tierra de Osos 2
 http://www.spruto.tv/get_file/7/5ec2021b49bcd2e5bfeb34fddf1b5518/76000/76794/76794.mp4
@@ -1116,7 +1123,7 @@ http://www.spruto.tv/get_file/1/65f9fab60393c3a045d412c96693b47e/86000/86647/866
 http://www.spruto.tv/get_file/1/d71fc25c39dd7324200d0730be1bc7f3/86000/86897/86897.mp4
 #EXTINF:-1 ,La Era de Hielo 3
 http://www.spruto.tv/get_file/7/b87164d9bdbeb605d4300439829b589f/77000/77736/77736.mp4
-#EXTINF:-1 ,Bob Esponja Un H√©roe Fuera Del Agua 2015 720P HD
+#EXTINF:-1 ,Bob Esponja Un H√É¬©roe Fuera Del Agua 2015 720P HD
 https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!243&authkey=!AL0aXUncXk6enYQ&ithint=file%2cmkv
 #EXTINF:-1 ,LOS PINGUINOS DE MADAGASCAR
 https://onedrive.live.com/download.aspx?resid=b9d3cb38dfde3913!165&authkey=!AHMWZ-HLct8F6Es&ithint=file%2cmkv
@@ -1130,9 +1137,9 @@ https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNt
 https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
 #EXTINF:0,Intensamente (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
-#EXTINF:0,Cuatro fant·sticos (Dual)
+#EXTINF:0,Cuatro fant√°sticos (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
-#EXTINF:0,MisiÛn Imposible: NaciÛn secreta (Dual)
+#EXTINF:0,Misi√≥n Imposible: Naci√≥n secreta (Dual)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
 #EXTINF:0,Bikini Model Academy (subs)
 https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
@@ -1152,7 +1159,7 @@ https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEO
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
 #EXTINF:0,Los Minions
 https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
-#EXTINF:0,Dragon Ball Z: La ResurrecciÛn de Freezer
+#EXTINF:0,Dragon Ball Z: La Resurrecci√≥n de Freezer
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
 #EXTINF:0,AREA 51
 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
@@ -1170,7 +1177,7 @@ https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
 #EXTINF:0,La Revancha 1080p (Dual)
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
-#EXTINF:0,Yo -  Èl y Raquel Latino(Dual)(1080p)
+#EXTINF:0,Yo -  √©l y Raquel Latino(Dual)(1080p)
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
 #EXTINF:0,Jugada Salvage (1080p) Dual
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
@@ -1182,7 +1189,7 @@ https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5T
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
 #EXTINF:0,Tracers (Dual)1080p
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
-#EXTINF:0,Terminator GÈnesis(Dual)
+#EXTINF:0,Terminator G√©nesis(Dual)
 https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
 #EXTINF:0,La Horca [dual]
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
@@ -1192,9 +1199,9 @@ https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIf
 https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
 #EXTINF:0,Shaun el cordero [lat]
 https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
-#EXTINF:0,Tomorrowland: El Mundo del MaÒana 
+#EXTINF:0,Tomorrowland: El Mundo del Ma√±ana 
 https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
-#EXTINF:0,EXTINF:-1,Tomorrowland El Mundo del MaÒana
+#EXTINF:0,EXTINF:-1,Tomorrowland El Mundo del Ma√±ana
 http://73.36.97.218/Compus1286-Servidor/EXTINF%3A-1%2CTomorrowland%20El%20Mundo%20del%20Ma%C3%B1ana
 http://streamin.to/0ibi13mf7teb
 #EXTINF:0,Pixeles [BrScreener]
@@ -1203,15 +1210,15 @@ https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJY
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
 #EXTINF:0,Aloha
 http://streamin.to/jpvbe8ctazls
-#EXTINF:0,El Gran PequeÒo
+#EXTINF:0,El Gran Peque√±o
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
-#EXTINF:0,Los Vengadores: La Era de UltrÛn [Dual]
+#EXTINF:0,Los Vengadores: La Era de Ultr√≥n [Dual]
 https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
-#EXTINF:0,Una ˙ltima y nos vamos
+#EXTINF:0,Una √∫ltima y nos vamos
 http://streamin.to/sy743nsc1nkh
-#EXTINF:0,Una ˙ltima y nos vamos Opcion 2
+#EXTINF:0,Una √∫ltima y nos vamos Opcion 2
 https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
-#EXTINF:0,EspÌas
+#EXTINF:0,Esp√≠as
 http://streamin.to/xpl0ujn1ykko
 #EXTINF:0,Poltergeist [Web DL]
 http://streamin.to/xkwvkvsyhppa
@@ -1219,7 +1226,7 @@ http://streamin.to/xkwvkvsyhppa
 http://streamin.to/ydvovpogeds4
 #EXTINF:0,Pitch Perfect 2
 http://streamin.to/mfkjg4pyu7hh
-#EXTINF:0,Terremoto La Falla De San AndrÈs [Web DL]
+#EXTINF:0,Terremoto La Falla De San Andr√©s [Web DL]
 https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
 #EXTINF:0,A la mala
 http://streamin.to/8t818jb2kg87
@@ -5210,17 +5217,17 @@ http://141.101.133.73/stream/EOX8KXUA8Q/108.m3u8
 #EXTINF:0 tvg-name="Amedia HIT HD" tvg-language="Russian" tvg-country="RU" tvg-id="Amedia HIT HD" tvg-logo="https://macin.files.wordpress.com/2008/09/plex-icon-512x512.png" group-title="Public-Documentary",Amedia HIT HD (Public-Documentary) (RU) (Russian)
 http://141.101.133.73/stream/EOX8KXUA8Q/162.m3u8
 
-#EXTINF:0,[COLOR lime][B]CANAD¡[/B][/COLOR]
+#EXTINF:0,[COLOR lime][B]CANAD√Å[/B][/COLOR]
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANAD¡",CBC
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANAD√Å",CBC
 http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="commercial-6 (1).png" group-title="CANAD¡",TVA Montreal
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="commercial-6 (1).png" group-title="CANAD√Å",TVA Montreal
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo_112.png" group-title="CANAD¡",CPAC
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="logo_112.png" group-title="CANAD√Å",CPAC
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="01837482_photo_logo_de_l_assemblee_nationale.jpg" group-title="CANAD¡",AssemblÈe Nationale
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="01837482_photo_logo_de_l_assemblee_nationale.jpg" group-title="CANAD√Å",Assembl√©e Nationale
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="global_tv_hd_1.png" group-title="CANAD¡",Global
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="global_tv_hd_1.png" group-title="CANAD√Å",Global
 https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="ciii_toronto.png" group-title="CANAD¡",Global Toronto
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="ciii_toronto.png" group-title="CANAD√Å",Global Toronto
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
